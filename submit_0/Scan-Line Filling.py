@@ -3,7 +3,7 @@ from PIL import ImageDraw
 import queue
 import math
 
-width = 100
+width = 300
 background = (255, 255, 255, 255)
 fill_color = (0, 0, 0, 255)
 im = Image.new("RGBA", (width, width), background)
