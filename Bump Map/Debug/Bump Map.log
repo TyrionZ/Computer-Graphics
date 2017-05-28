@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\wulal\code\computer graphics\bump map\源.cpp(82): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  Bump Map.vcxproj -> C:\Users\wulal\Code\Computer Graphics\Bump Map\Debug\Bump Map.exe
+  Bump Map.vcxproj -> C:\Users\wulal\Code\Computer Graphics\Bump Map\Debug\Bump Map.pdb (Partial PDB)
